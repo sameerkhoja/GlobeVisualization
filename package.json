@@ -1,0 +1,19 @@
+{
+  "name": "webgl-globe",
+  "version": "1.0.0",
+  "description": "Submission to the Capital One Engineering Summit Code Challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samkho10/GlobeVisualization.git"
+  },
+  "author": "Sameer Khoja <sameerkhoja10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samkho10/GlobeVisualization/issues"
+  },
+  "homepage": "https://github.com/samkho10/GlobeVisualization#readme"
+}
